@@ -1,0 +1,6 @@
+@import url("../reset.css");
+@import url("../global.css");
+
+.nav_bar {
+    display: inline-block;
+}

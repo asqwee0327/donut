@@ -1,0 +1,17 @@
+@font-face {
+    font-family: Delicious_Handrawn;
+    src: url(../asset/font/Delicious_Handrawn/DeliciousHandrawn-Regular.ttf);
+}
+
+:root {
+    --white: #FFFFFF;
+    --pink: #E88280;
+    --orange: #FAA57B;
+}
+
+.flex_center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
